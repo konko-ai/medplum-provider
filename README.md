@@ -12,6 +12,7 @@ This example app demonstrates the following:
   - More information on a [charting experience](https://www.medplum.com/docs/charting)
 - Using [Medplum GraphQL](https://graphiql.medplum.com/) queries to fetch linked resources
 
+
 ### Workflows
 
 The application will feature the following core workflows:
